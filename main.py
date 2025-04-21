@@ -2,7 +2,7 @@ from telebot import *
 import sqlite3
 import random
 from universe import commons, rares, legendaries, mythics
-TOKEN = ('7988172501:AAEVAKZRhu_8tb3BAgeIMMWPKVmrSY2qdJw')
+TOKEN = ('TOKEN')
 bot = TeleBot(TOKEN)
 
 
